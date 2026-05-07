@@ -17,10 +17,12 @@ Projeto de testes automatizados E2E com Cypress e testes de performance com K6 n
    npm install
 ```
 3. Crie um arquivo `.env` na raiz com as variáveis:
+```
 GITHUB_EMAIL=seu_email@gmail.com
 GITHUB_PASSWORD=sua_senha
 GITHUB_USERNAME=seu_username
 GITHUB_REPO_NAME=nome-do-repositorio
+```
 
 ## Rodando os testes
 
