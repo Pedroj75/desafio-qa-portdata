@@ -1,0 +1,19 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^15.14.2",
+    "cypress-xpath": "^2.0.1",
+    "dotenv": "^17.4.2"
+  }
+}
