@@ -43,3 +43,10 @@ npx cypress run
 ```bash
 k6 run --env GITHUB_EMAIL=seu_email --env GITHUB_PASSWORD=sua_senha --env GITHUB_USERNAME=seu_username k6/performance.js
 ```
+## Documentação Adicional
+
+Na pasta `/docs`, você encontrará a documentação técnica utilizada como base para o projeto:
+
+- **Plano de Testes:** escopo, ferramentas e estratégia adotada.
+- **Casos de Teste:** detalhamento dos cenários E2E e de performance.
+- **Resumo de Execução:** resultados da validação dos requisitos.
